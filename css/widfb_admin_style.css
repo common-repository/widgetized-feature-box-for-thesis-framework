@@ -1,0 +1,19 @@
+/*admin style*/
+
+.widfb_options_page {
+width: 620px;
+}
+.widfb_admin_title, h2{
+color: #CC0000;
+font-size: 30px;
+}
+p {
+font-size: 16px;
+}
+h3 {
+font-size: 20px;
+}
+label {
+font-weight: bold;
+font-size: 14px;
+}

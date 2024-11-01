@@ -1,0 +1,123 @@
+/* Feature Box */
+#feature_box {
+    background: #FFFFFF;
+    float: left;
+    height: auto;
+    padding: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+#featured_title  {
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.custom li.widget h3 {
+    font-size: 24px;
+    line-height: 2em;
+    text-align: center;
+    list-style: none;
+}
+.custom li.widget {
+    list-style: none;
+}
+
+
+.news-bar h3 {
+    float: left;
+    font-size: 16px;
+    padding-left: 50px;
+    text-align: left;
+    width: 90%;
+}
+.news-bar {
+    background-color: #FFFFA0;
+    border: 1px solid #E5E597;
+    float: left;
+    padding: 1em 0;
+    text-align: left;
+    width: 100%;
+}
+
+.custom .format_text pre {
+    font-size: 0.6em;
+    line-height: 1.5em;
+    margin-bottom: 2em;
+    padding: 0.75em 1em;
+}
+
+/* Feature Box Widgets selected 1*/
+.feature-box-widget-selected-1 {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 100%;
+}
+/* Feature Box Widgets selected 2*/
+.feature-box-widget-selected-2a {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 50%;
+}
+
+.feature-box-widget-selected-2b {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 50%;
+}
+
+/* Feature Box Widgets selected 3*/
+
+.feature-box-widget-selected-3a {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 33%;
+}
+
+.feature-box-widget-selected-3b {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 33%;
+}
+
+.feature-box-widget-selected-3c {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 33%;
+}
+/* Feature Box Widgets selected 4*/
+
+.feature-box-widget1 {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 25%;
+}
+
+.feature-box-widget2 {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 25%;
+}
+
+.feature-box-widget3 {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 25%;
+}
+
+.feature-box-widget4 {
+	float: left;
+	height: auto;
+	overflow: hidden;
+	width: 25%;
+}
